@@ -1,0 +1,391 @@
+  <div class="projcets">
+            <div class="container">
+                <div class="row align-items-center justify-content-center ">
+                    <!-- <div class="col-lg-4 ">
+                        <div class="box_project">
+                            <div class="box_item wt_380">
+                                <img src="./img/ru_dual_cook_flex_nv7000n_black_nv75n7646rb_wt_rperspectivedual.jpg" alt="">
+                            </div>
+                        </div>
+                    </div> -->
+                    <div class="col-lg-4">
+                        <div class="col-12">
+                            <div class="row justify-content-center align-items-center">
+                                <div class="col-lg-6 ">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 ">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="col-12  ">
+                            <div class="row flex_reverse justify-content-center align-items-center">
+                                <div class="col-lg-6">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 ">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="col-12  ">
+                            <div class="row flex_reverse justify-content-center align-items-center">
+                                <div class="col-lg-6">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 ">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="col-12  ">
+                            <div class="row flex_reverse justify-content-center align-items-center">
+                                <div class="col-lg-6">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 ">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="col-12  ">
+                            <div class="row flex_reverse justify-content-center align-items-center">
+                                <div class="col-lg-6">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 ">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+              <!-- <div class="projcets">
+            <div class="container">
+                <div class="row align-items-center justify-content-center ">
+                    <div class="col-lg-4 ">
+                        <div class="box_project">
+                            <div class="box_item wt_380">
+                                <img src="./img/ru_dual_cook_flex_nv7000n_black_nv75n7646rb_wt_rperspectivedual.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="col-12">
+                            <div class="row justify-content-center   align-items-center">
+                                <div class="col-lg-6 ">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 ">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="col-12  ">
+                            <div class="row flex_reverse  justify-content-center align-items-center">
+                                <div class="col-lg-6">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 ">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="col-12  ">
+                            <div class="row   justify-content-center align-items-center">
+                                <div class="col-lg-6">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 ">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    
+                    
+                </div>
+                <div class="row align-items-center justify-content-center">  
+                    <div class="col-lg-4">
+                        <div class="col-12">
+                            <div class="row justify-content-center   align-items-center">
+                                <div class="col-lg-6 ">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 ">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="box_project">
+                                        <div class="box_item vs wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                 
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="col-12  ">
+                            <div class="row flex_reverse  justify-content-center align-items-center">
+                                <div class="col-lg-6">
+                                    <div class="box_project">
+                                        <div class="box_item vs wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 ">
+                                    <div class="box_project">
+                                        <div class="box_item  vs  wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="box_project">
+                                        <div class="box_item  wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="col-12  ">
+                            <div class="row   justify-content-center align-items-center">
+                                <div class="col-lg-6">
+                                    <div class="box_project">
+                                        <div class="box_item wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 ">
+                                    <div class="box_project">
+                                        <div class="box_item  wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="box_project">
+                                        <div class="box_item vs wt_180"><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div> -->
+        
+        <!-- <div class="projects_2">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5">
+                        <div class="box_rom">
+                            <div class="big_romb">
+                                <img src="./img/kindpng_4850258.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 trform_1">
+                        <div class="col-12">
+                            <div class="row justify-content-center   align-items-center">
+                                <div class="col-lg-6 ">
+                                    <div class="box_rom">
+                                        <div class="big_romb  "><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 ">
+                                    <div class="box_rom">
+                                        <div class="big_romb "><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="box_rom">
+                                        <div class="big_romb "><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                 
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 trform_2">
+                        <div class="col-12">
+                            <div class="row justify-content-center flex_reverse  align-items-center">
+                                <div class="col-lg-6 ">
+                                    <div class="box_rom">
+                                        <div class="big_romb  "><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 ">
+                                    <div class="box_rom">
+                                        <div class="big_romb "><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="box_rom">
+                                        <div class="big_romb "><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                 
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-5 trform_3">
+                        <div class="box_rom">
+                            <div class="big_romb">
+                                <img src="./img/kindpng_4850258.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 trform_4">
+                        <div class="col-12">
+                            <div class="row justify-content-center    align-items-center">
+                                <div class="col-lg-6 ">
+                                    <div class="box_rom">
+                                        <div class="big_romb  "><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 ">
+                                    <div class="box_rom">
+                                        <div class="big_romb "><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="box_rom">
+                                        <div class="big_romb "><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                 
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 trform_5">
+                        <div class="col-12">
+                            <div class="row justify-content-center flex_reverse  align-items-center">
+                                <div class="col-lg-6 ">
+                                    <div class="box_rom">
+                                        <div class="big_romb  "><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 ">
+                                    <div class="box_rom">
+                                        <div class="big_romb "><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="box_rom">
+                                        <div class="big_romb "><img src="./img/kindpng_4850258.png" alt=""></div>
+                                    </div>
+                                </div>
+                                 
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-5 trform_6">
+                        <div class="box_rom">
+                            <div class="big_romb">
+                                <img src="./img/kindpng_4850258.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+    
